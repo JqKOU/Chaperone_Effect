@@ -2,7 +2,7 @@ The **Chaperone Effect.ipynb** file is the python code of data cleaning procedur
 
 Final results are visualized at Tableau Public, check the link for detail: https://public.tableau.com/profile/jk4983#!/vizhome/SP_16168268369880/VIZ
 
-![alt text](https://github.com/JqKOU/Chaperone_Effect/blob/main/VIZ.png)
+![alt text](https://github.com/JqKOU/Chaperone_Effect/blob/main/Dashboard%202.png)
 
 note: I could not share the dataset used in this project as it is confidential. 
 
